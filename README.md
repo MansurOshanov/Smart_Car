@@ -1,10 +1,3 @@
-The Smart Mystery Machine
-Yevgeniya Migranova 1, Akhan Janabekov 2, Temirlan Turysbek 3, Mansur Oshanov 4 and Alpamys Duimagambetov 5.
-1	Nazarbayev University, SST, 4th year Computer Science; yevgeniya.migranova@nu.edu.kz 
-2	Nazarbayev University, SST, 4th year Computer Science; akhan.janabekov@nu.edu.kz
-3  Nazarbayev University, SST, 2nd year Computer Science; temirlan.turysbek@nu.edu.kz
-4  Nazarbayev University, SST, 2nd year Computer Science; mansur.oshanov@nu.edu.kz
-5  Nazarbayev University, SST, 2nd year Computer Science; alpamys.duimagambetov@nu.edu.kz
  
 1. Introduction
 Current project is aimed at the creation of a smart motorhome, which is a subtype of recreational vehicles. Recreational vehicles (RVs) are popular in North America for camping purposes, because these afford a convenient living space (Brooker & Joppe 2013, 1-2). However, there might be a potential for the popularization of RVs in Kazakhstan with the development of cross-country tourism. 
