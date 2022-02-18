@@ -1,4 +1,5 @@
- 
+The demo of the car: https://www.youtube.com/watch?v=DQlRiYU7Rlo&feature=youtu.be
+
 1. Introduction
 Current project is aimed at the creation of a smart motorhome, which is a subtype of recreational vehicles. Recreational vehicles (RVs) are popular in North America for camping purposes, because these afford a convenient living space (Brooker & Joppe 2013, 1-2). However, there might be a potential for the popularization of RVs in Kazakhstan with the development of cross-country tourism. 
 Motorhomes usually have two main compartments, living space and driver’s cabin, illustrated in Figure 1. Assembly of a smart motorhome requires two implementations: moving car functionality and a set of sensors for a living space. This project is aimed at the improvement of living conditions for campers in motorhomes. In the perspective, the development of smart motorhomes will contribute to the development of the RV industry. 
